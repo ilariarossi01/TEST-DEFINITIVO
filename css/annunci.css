@@ -1,0 +1,155 @@
+html {
+    color:rgb(0, 0, 0)
+}
+
+body {
+    border: 0px;
+  text-align: center;
+  padding: -15px
+}
+
+
+  header { 
+    text-align: center;
+   }
+
+h1 {
+    text-align: left;
+    color: black;
+}
+
+
+nav ul li {
+    margin: 20px;
+    display:inline-block;
+}
+
+nav {
+    background-color: #8600c4;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+nav ul li  {
+    color: black;
+}
+
+nav ul a { 
+    color: black;
+}
+
+
+h1, #logo1 { 
+    display: inline-block;
+}
+
+#logo1 {
+    width: 94px;
+    float: left;
+
+}
+
+h1 {
+    float: left;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 35px;
+    margin-top: 25px;
+}
+
+h3 {
+    color: #8600c4
+}
+
+section {
+    padding:30px;
+    margin: 5px;
+}
+
+
+.active {
+    color:rgb(238, 130, 238);
+    background-color: rgb(255, 255, 255);
+    border-radius: 3px 3px 3px 3px ;
+}
+
+.nounderline {
+    text-decoration: none;
+    padding: 10px 10px 10px 10px; 
+}
+
+
+.whitelink {
+    color: white
+}
+
+
+.aggiungere {
+        cursor: crosshair;
+    }
+
+.testo {
+    text-align: center;
+    margin-top: 250px;
+}
+
+
+     h6 , .autori {
+        text-align: center;
+    }
+
+    
+
+    .inserisci { 
+        border-radius: 10px 10px 10px 10px ;
+        background-color: rgb(238, 130, 238);
+        padding: 5px;
+        font-family: 'Lora', sans-serif;
+        font-size: 14px
+        
+    }
+
+    #singolo, #duo {
+        width: 200px;
+        margin-left: 60px;
+    }
+
+    .colonna {
+        height: 605px;
+    }
+    
+
+.col-3 {
+      min-width: 350px ;
+      margin: 15px;
+}
+
+#disegno3 { 
+    width: 350px;
+   
+}
+
+#disegno4 { 
+    width: 330px;
+}
+
+body {text-align: center;
+    background-color: white  !important ;
+    font-size: 18px;
+    font-family: 'Lora', sans-serif;
+}
+    
+.bg-primary {
+        background-color: white !important ;
+        font-size: 18px;
+    }
+
+
+ a:hover{
+        color: rgb(238, 130, 238);
+        text-decoration: none;}
+
+a { color:black}
+    
+footer {
+    margin-top: 100px;
+}

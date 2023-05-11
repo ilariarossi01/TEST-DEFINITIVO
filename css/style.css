@@ -1,0 +1,270 @@
+html {
+    color:rgb(0, 0, 0)
+}
+
+
+body {
+    border: 0px;
+  text-align: center;
+  padding: -15px;
+  font-family: 'Lora', serif; 
+background-color: white ; 
+font-size: 18px; }
+
+
+header {
+    text-align: center;}
+
+
+h1 {text-align: left;
+    color: black;}
+
+nav ul li {margin: 20px;
+    display:inline-block;}
+
+
+
+.navprefe {
+    margin-left: -40px;
+    margin-right: -40px;
+    margin-top: 50px;
+}
+
+.navdoc {
+    margin-top: 5spx
+}
+
+nav {background-color: #8600C4;
+margin-left: none;
+margin-right: none;}
+
+
+nav ul li  {color: black;}
+
+
+nav ul a {
+    color: black;}
+
+
+
+h1, #logo {
+    display: inline-block;}
+
+
+#logo {
+    width: 95px;
+    float: left;
+}
+
+
+
+
+h1 {float: left;
+    font-family: 'Orbitron', sans-serif;}
+
+h2 {float: center;
+    font-family: 'Orbitron', sans-serif;}
+
+
+h3 {
+    color:#8600C4;
+ 
+}
+
+
+
+.bodydoc {
+    text-align: left;
+}
+
+.doc {
+    padding: 15px
+}
+section {padding:30px;
+    margin: 5px;}
+
+
+#section1 {padding: 10px}
+
+
+
+#section2, #section3, #section4 {
+            text-align: center;
+            display: inline-block;
+}
+
+
+#filtri p {border: 2px solid #8600C4;
+    padding: 20px;}
+
+
+#filtri {padding:0px}    
+
+
+#section2 {border: 5px solid #8600C4;
+    padding: 20px;}
+
+
+#barra {
+    display: inline-block;
+}
+
+
+
+
+.active {
+    color: rgb(238, 130, 238);
+    background-color: rgb(255, 255, 255);
+    border-radius: 3px 3px 3px 3px ;
+}
+
+
+.nounderline {
+    text-decoration: none;
+    padding: 10px 10px 10px 10px;
+    
+}
+
+
+a { color:black
+
+}
+
+.whitelink {
+    color: white
+}
+
+
+
+
+header {
+    padding: 0px 0px 0px 0px;
+    text-align: center;
+}
+
+
+body {
+    margin: 0px;
+    background-color: white;
+}
+   
+body  {
+    font-family: 'Lora', sans-serif;
+}  /* questo è il font che ho scelto e l'ho messo per tutto il corpo testo*/
+
+
+.aggiungere {
+    cursor: crosshair;
+ 
+    
+}
+
+
+footer {
+    text-align: center;
+}
+
+
+
+.inserisci { 
+    border-radius: 10px 10px 10px 10px ;
+    background-color: rgb(238, 130, 238);
+    padding: 5px;
+    font-family: 'Lora', sans-serif;
+    font-size: 14px
+    
+}
+
+
+
+#disegno2 {width: 400px;}
+
+#disegno3 { width: 350px;}
+
+#disegno4 { width: 330px;}
+
+#disegno5 {width: 250px;}
+
+#disegno6 {width: 220px;}
+
+#alberosito {
+    width: 450px;
+}
+
+
+body {font-family: 'Lora', serif;}
+
+
+a:hover{
+    color: rgb(238, 130, 238);
+    text-decoration: none;
+
+}
+
+.titolodoc {
+    text-align: center;
+   }
+
+
+   div.gallery {
+    border: 1px solid #ccc;
+    width: 170px;
+    height: auto;
+    margin: 10px;
+    display: inline-block;
+}
+
+
+div.gallery:hover {
+  border: 1px solid rgb(238, 130, 238);
+}
+
+div.gallery img {
+  width: 100px;
+  height: auto;
+  margin-top: 10px;
+  margin-left: 35px;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.btn-btn-success {
+    border-color: rgb(238, 130, 238);
+}
+
+footer {
+    margin-top: 100px;
+}
+
