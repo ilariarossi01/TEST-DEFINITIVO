@@ -1,3 +1,6 @@
+html {
+    line-height: 1,5;
+}
 nav ul a {
     color: black;
     font-family: 'Lora', sans-serif;
@@ -93,14 +96,18 @@ footer {
 
 
 
-#disegno2 {width: 400px;
-float: center;
+#disegno2 {
+    width: 400px;
+    max-width: 100%;
+    margin-left: auto;
+    display: block;
+    margin-right: auto;
 }
 
 
-#disegno6 {width: 210px;
-float: center;
-margin-left: 350px;}
+
+
+
 
 
 a:hover{
